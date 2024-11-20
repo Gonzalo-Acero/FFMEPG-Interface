@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FFMEPG-Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|d:\\ffmepg-interface\\tp-desktop\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|D:\\FFMEPG-Interface\\tp-desktop\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E5BFBC-F5C1-49A3-948F-8683F2D0AAB2}|tp-desktop\\tp-desktop.csproj|solutionrelative:tp-desktop\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 169,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Connection.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Connection.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Connection.cs",
+              "RelativeToolTip": "tp-desktop\\Connection.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Model.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Model.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Model.cs",
+              "RelativeToolTip": "tp-desktop\\Model.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAwwE4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Users.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Users.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Users.cs",
+              "RelativeToolTip": "tp-desktop\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Controller.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Controller.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Controller.cs",
+              "RelativeToolTip": "tp-desktop\\Controller.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowE0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Form3.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Form3.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Form3.cs",
+              "RelativeToolTip": "tp-desktop\\Form3.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Form3.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Form3.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "tp-desktop\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.449Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Form1.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Form1.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Form1.cs",
+              "RelativeToolTip": "tp-desktop\\Form1.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAiwOgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Form1.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Form1.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "tp-desktop\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.466Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\MainClass.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\MainClass.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\MainClass.cs",
+              "RelativeToolTip": "tp-desktop\\MainClass.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAIwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Form2.Designer.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Form2.Designer.cs",
+              "RelativeToolTip": "tp-desktop\\Form2.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAnwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-20T14:41:26.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.resx",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Form2.resx",
+              "RelativeDocumentMoniker": "tp-desktop\\Form2.resx",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Form2.resx",
+              "RelativeToolTip": "tp-desktop\\Form2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-20T14:41:26.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Form2.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Form2.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Form2.cs",
+              "RelativeToolTip": "tp-desktop\\Form2.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAnwDsAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Form2.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Form2.cs",
+              "ToolTip": "D:\\Facultad_Gonzalo_v2\\App_Desktop_Dinamico_sebas\\Prueba_Git\\tp-desktop\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Facultad_Gonzalo_v2\\App_Desktop_Dinamico_sebas\\Prueba_Git\\tp-desktop\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-20T14:41:26.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Program.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Program.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Program.cs",
+              "RelativeToolTip": "tp-desktop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "tp-desktop\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-20T14:41:26.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\FFMEPG-Interface\\tp-desktop\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "tp-desktop\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\FFMEPG-Interface\\tp-desktop\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "tp-desktop\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:41:26.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

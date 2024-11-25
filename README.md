@@ -1,16 +1,16 @@
-![Imagen del Proyecto](https://github.com/Gonzalo-Acero/APIRest-PluginsMusicales/blob/main/img/Api%20Musica/IMG_proyecto.png)
+![Imagen del Proyecto](https://github.com/Gonzalo-Acero/FFMEPG-Interface/blob/main/img/ImgProyecto.png)
 # Interfaz Funcional - Editor FFMEPG
 
-##  🎵 Descripcion del proyecto
-En este proyecto desarrolle una API Rest con Java 17 + Spring Boot 3 que consiste en un CRUD de plugins para trabajar el sonido.
+## 🎵 Descripcion del proyecto
+En este proyecto desarrolle una interfaz amigable al usuario para el editor por consola `FFMEPG` y facilitar el trabajo de edicion de video. Contiene tambien `Login/Register` con Google (OAuth 2.0)
 
 Todas las imagenes descriptivas del proyecto se encuentran en este repositorio.
 
 ## 🔧 Teconologias usadas
 
-* Java 17
-* Spring Boot 3
-* Postman
+* C#
+* .NET
+* Google OAuth 2.0
 * Git/Github Desktop
 
 ## ❄️ Gonzalo Acero
